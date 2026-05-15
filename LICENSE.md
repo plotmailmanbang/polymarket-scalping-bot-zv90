@@ -1,4 +1,4 @@
-# 
+# secure Polymarket Tool | trailing-stops + scalping-strategies is the best Polymarket tool, featuring trailing-stops and scalping-strategies. Smart, fast, and optimized for trading
 
 
 
